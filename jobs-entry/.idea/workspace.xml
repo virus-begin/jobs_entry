@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d4c0b2db-db2e-4faa-8a01-24ed18609712" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1UnlrOu8VF4xKFESa47MJrTVrf6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.start">
+    <configuration name="db_functions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="jobs-entry" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/db_functions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="monogo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="jobs-entry" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/monogo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="jobs-entry" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/start.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.start" />
+        <item itemvalue="Python.db_functions" />
+        <item itemvalue="Python.monogo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4c0b2db-db2e-4faa-8a01-24ed18609712" name="Default Changelist" comment="" />
+      <created>1576000437747</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576000437747</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1343" height="283" key="GridCell.Tab.0.bottom" timestamp="1576024200949">
+      <screen x="0" y="27" width="1366" height="702" />
+    </state>
+    <state width="1343" height="283" key="GridCell.Tab.0.bottom/0.27.1366.702@0.27.1366.702" timestamp="1576024200949" />
+    <state width="1343" height="283" key="GridCell.Tab.0.center" timestamp="1576024200949">
+      <screen x="0" y="27" width="1366" height="702" />
+    </state>
+    <state width="1343" height="283" key="GridCell.Tab.0.center/0.27.1366.702@0.27.1366.702" timestamp="1576024200949" />
+    <state width="1343" height="283" key="GridCell.Tab.0.left" timestamp="1576024200948">
+      <screen x="0" y="27" width="1366" height="702" />
+    </state>
+    <state width="1343" height="283" key="GridCell.Tab.0.left/0.27.1366.702@0.27.1366.702" timestamp="1576024200948" />
+    <state width="1343" height="283" key="GridCell.Tab.0.right" timestamp="1576024200949">
+      <screen x="0" y="27" width="1366" height="702" />
+    </state>
+    <state width="1343" height="283" key="GridCell.Tab.0.right/0.27.1366.702@0.27.1366.702" timestamp="1576024200949" />
+    <state x="172" y="27" width="1012" height="702" key="SettingsEditor" timestamp="1576000644248">
+      <screen x="0" y="27" width="1366" height="702" />
+    </state>
+    <state x="172" y="27" width="1012" height="702" key="SettingsEditor/0.27.1366.702@0.27.1366.702" timestamp="1576000644248" />
+    <state x="339" y="205" key="com.intellij.ide.util.TipDialog" timestamp="1576015315710">
+      <screen x="0" y="27" width="1366" height="702" />
+    </state>
+    <state x="339" y="205" key="com.intellij.ide.util.TipDialog/0.27.1366.702@0.27.1366.702" timestamp="1576015315710" />
+  </component>
+</project>
